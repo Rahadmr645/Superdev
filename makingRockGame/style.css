@@ -1,0 +1,17 @@
+body {
+    background-color: #837a7a;
+    color: #0c0707;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+
+button {
+    background-color: aqua;
+    border: none;
+    padding: 22dp;
+}
+
+button:hover {
+    border: 1px solid red;
+}
